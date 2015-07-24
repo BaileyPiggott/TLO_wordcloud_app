@@ -11,7 +11,8 @@ shinyUI(fluidPage(
                   "Learning Belief" = 2, 
                   "Self Efficacy" = 3,
                   "Transfer" = 4,
-                  "Organization" = 5
+                  "Organization" = 5, 
+                  selected = 2
                 )#end options
     ),#end selectInput
     

@@ -19,7 +19,7 @@ shinyServer(function(input, output) {
     else if(input$category == 4){
       data = tr
     }
-    else if(input$category == 4){
+    else if(input$category == 5){
       data = org
     }
     
